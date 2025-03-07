@@ -1,4 +1,4 @@
 # AI CAT
 <p align="center">  
-<img src="https://i0.wp.com/i.imgur.com/YPG5OJp.gif">
+<img src="https://raw.githubusercontent.com/Cmdhell/AI-CAT/refs/heads/main/81656ae8-cb81-4fc3-b749-1f635c199615.webp">
 </p>
